@@ -5,19 +5,11 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title/>
+            <title></title>
          </titleStmt>
          <pubStmt/>
       </fileDesc>
-   <encodingDesc xml:id="eljsahf">
-<appInfo xml:id="a9qman41">
-<application xml:id="a1pt81g1" startdate="2024-06-15T00:10:25" version="1.0.14">
-<name xml:id="n2mo6tm2">mei-friend</name>
-<p xml:id="pa1p44n2">First edit by mei-friend 1.0.14, 23 May 2024.</p>
-</application>
-</appInfo>
-</encodingDesc>
-</meiHead>
+   </meiHead>
    <music>
       <body>
          <mdiv>
