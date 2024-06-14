@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-Neumes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-Neumes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <pubStmt/>
+      </fileDesc>
+   <encodingDesc xml:id="eljsahf">
+<appInfo xml:id="a9qman41">
+<application xml:id="a1pt81g1" startdate="2024-06-15T00:10:25" version="1.0.14">
+<name xml:id="n2mo6tm2">mei-friend</name>
+<p xml:id="pa1p44n2">First edit by mei-friend 1.0.14, 23 May 2024.</p>
+</application>
+</appInfo>
+</encodingDesc>
+</meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" notationtype="neume"/>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <staff n="1">
+                     <layer>
+                        <!-- music content goes here -->
+                     </layer>
+                  </staff>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
