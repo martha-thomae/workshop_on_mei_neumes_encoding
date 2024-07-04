@@ -58,7 +58,12 @@
                                  <liquescent/>
                               </nc>
                            </neume>
-                           <neume></neume>
+                           <neume>
+                              <nc ligated="true" tilt="n" pname="f" oct="2"/>
+                              <nc ligated="true" pname="d" oct="2"/>
+                              <nc pname="e" oct="2"/>
+                              <nc pname="d" oct="2"/>
+                           </neume>
                         </syllable>
                      </layer>
                   </staff>
