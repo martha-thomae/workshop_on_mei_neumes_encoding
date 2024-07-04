@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-Neumes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-Neumes.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead>
+      <fileDesc>
+         <titleStmt>
+            <title></title>
+         </titleStmt>
+         <pubStmt/>
+      </fileDesc>
+   </meiHead>
+   <music>
+      <body>
+         <mdiv>
+            <score>
+               <scoreDef>
+                  <staffGrp>
+                     <staffDef n="1" lines="5" notationtype="neume" clef.shape="C" clef.line="4"/>
+                  </staffGrp>
+               </scoreDef>
+               <section>
+                  <staff n="1">
+                     <layer>
+                        <syllable>
+                           <syl>Be</syl>
+                           <neume>
+                              <nc pname="e" oct="2"/>
+                              <nc pname="e" oct="2"/>
+                              <nc tilt="s" pname="f" oct="2"/>
+                           </neume>
+                        </syllable>
+                        <syllable>
+                           <syl>ne</syl>
+                           <neume>
+                              <nc pname="d" oct="2"/>
+                              <nc tilt="s" pname="e" oct="2"/>
+                           </neume>
+                        </syllable>
+                        <syllable>
+                           <syl>di</syl>
+                           <neume>
+                              <nc pname="g" oct="2"/>
+                              <nc tilt="s" pname="a" oct="2"/>
+                           </neume>
+                        </syllable>
+                        <syllable>
+                           <syl>ci</syl>
+                           <neume>
+                              <nc tilt="n" pname="g" oct="2"/>
+                              <nc pname="e" oct="2"/>
+                           </neume>
+                        </syllable>
+                        <syllable>
+                           <syl>te</syl>
+                           <neume>
+                              <nc curve="c" pname="f" oct="2">
+                                 <liquescent/>
+                              </nc>
+                           </neume>
+                           <neume>
+                              <nc ligated="true" tilt="n" pname="f" oct="2"/>
+                              <nc ligated="true" pname="d" oct="2"/>
+                              <nc pname="e" oct="2"/>
+                              <nc pname="d" oct="2"/>
+                           </neume>
+                        </syllable>
+                        <syllable>
+                           <syl>om</syl>
+                           <neume>
+                              <nc pname="g" oct="2"/>
+                           </neume>
+                        </syllable>
+                        <syllable>
+                           <syl>nes</syl>
+                           <neume>
+                              <nc pname="g" oct="2"/>
+                           </neume>
+                        </syllable>
+                     </layer>
+                  </staff>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
