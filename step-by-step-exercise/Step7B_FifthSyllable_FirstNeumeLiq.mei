@@ -58,7 +58,7 @@
                                  <liquescent/>
                               </nc>
                            </neume>
-                           <neume></neume>
+                           <!--<neume></neume>-->
                         </syllable>
                      </layer>
                   </staff>
