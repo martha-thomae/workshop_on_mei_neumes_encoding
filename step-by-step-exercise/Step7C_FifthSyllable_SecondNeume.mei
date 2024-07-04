@@ -53,6 +53,11 @@
                         </syllable>
                         <syllable>
                            <syl>te</syl>
+                           <neume>
+                              <nc curve="c" pname="f" oct="2">
+                                 <liquescent/>
+                              </nc>
+                           </neume>
                            <neume></neume>
                         </syllable>
                      </layer>

@@ -46,13 +46,6 @@
                         </syllable>
                         <syllable>
                            <syl>ci</syl>
-                           <neume>
-                              <nc tilt="n" pname="g" oct="2"/>
-                              <nc pname="e" oct="2"/>
-                           </neume>
-                        </syllable>
-                        <syllable>
-                           <syl>te</syl>
                            <neume></neume>
                         </syllable>
                      </layer>
