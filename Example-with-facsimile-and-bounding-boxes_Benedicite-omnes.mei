@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+   <meiHead xml:id="m-31bb19b6-abc0-4cbf-b0f6-169c67b5a315">
+      <fileDesc xml:id="m-01dadaef-3dcb-4521-a261-69333e36b1b3">
+         <titleStmt xml:id="m-bd9ae7c6-2c8d-48b8-ba82-4b94407d3c47">
+            <title xml:id="m-402a2186-79f9-4f25-a801-5acd1145497f">MEI Encoding Output (1.0.0)</title>
+         </titleStmt>
+         <pubStmt xml:id="m-6bf82541-43f0-47df-b1d4-0392281dba7b"/>
+      </fileDesc>
+      <encodingDesc xml:id="eurqe5d">
+         <appInfo xml:id="ameutg21">
+            <application xml:id="a2q6fjy1" enddate="2024-07-04T20:21:04" startdate="2024-07-04T20:14:31" version="1.0.14">
+               <name xml:id="n6ko3b41">mei-friend</name>
+               <p xml:id="p54b01l1">First edit by mei-friend 1.0.14, 12 June 2024.</p>
+            </application>
+         </appInfo>
+      </encodingDesc>
+   </meiHead>
+    <music xml:id="mg6szwz2">
+        <facsimile xml:id="m-4e57845f-8555-4122-b53f-ae59303a03a8">
+            <surface xml:id="m-63998ad2-df54-472d-afe4-f37bbde5a72e" lrx="757" lry="598">
+               <graphic xml:id="grdjdks2" target="https://raw.githubusercontent.com/martha-thomae/chant_in_meifriend/main/330-331_2.jpg"/>
+               <zone xml:id="m-640a4ea5-7581-47cd-88f9-c88632b9419b" lrx="1876" lry="2056" ulx="1807" uly="1982"/>
+               <zone xml:id="z11jlni2" lrx="1873" lry="2118" type="syl" ulx="1796" uly="2061"/>
+               <zone xml:id="zh3je2t2" lrx="2207" lry="590" type="syl" ulx="2145" uly="542"/>
+               <zone xml:id="z59dr221" lrx="2212" lry="552" type="neume" ulx="2155" uly="487"/>
+               <zone xml:id="zvwsw8m1" lrx="2251" lry="589" type="syl" ulx="2198" uly="534"/>
+               <zone xml:id="zohy0il1" lrx="2260" lry="535" type="neume" ulx="2211" uly="432"/>
+               <zone xml:id="zmr1j81" lrx="2290" lry="589" type="syl" ulx="2242" uly="534"/>
+               <zone xml:id="zjo3cox2" lrx="2302" lry="533" type="neume" ulx="2259" uly="444"/>
+               <zone xml:id="zd01c0p1" lrx="2337" lry="590" type="syl" ulx="2285" uly="537"/>
+               <zone xml:id="zstfzzt1" lrx="2332" lry="543" type="nc" ulx="2306" uly="446"/>
+               <zone xml:id="zay0c9z1" lrx="2449" lry="546" type="neume" ulx="2329" uly="463"/>
+               <zone xml:id="zbjvlw6" lrx="2560" lry="590" type="syl" ulx="2477" uly="522"/>
+               <zone xml:id="zdr0z2n1" lrx="2538" lry="498" type="neume" ulx="2488" uly="440"/>
+               <zone xml:id="zwent8z1" lrx="2620" lry="589" type="syl" ulx="2552" uly="524"/>
+               <zone xml:id="zcr0o7m1" lrx="2595" lry="498" type="nc" ulx="2552" uly="440"/>
+            </surface>
+        </facsimile>
+        <body xml:id="b02jngs1">
+         <mdiv xml:id="mopqc6s2">
+            <score xml:id="smc64">
+               <scoreDef xml:id="son6y6s2">
+                  <staffGrp xml:id="syp81gz1">
+                     <staffDef xml:id="skowclt1" clef.line="4" clef.shape="C" lines="5" n="1" notationtype="neume"/>
+                  </staffGrp>
+               </scoreDef>
+               <section xml:id="szzar511">
+                  <staff xml:id="sk7ai5s2" n="1">
+                     <layer xml:id="lm2emtd">
+                        <syllable xml:id="s0grs281">
+                           <syl xml:id="sdx79s7" facs="#z11jlni2">Be</syl>
+                           <neume xml:id="nafcnbn2" facs="#m-640a4ea5-7581-47cd-88f9-c88632b9419b">
+                              <nc xml:id="n6k38qf1" oct="2" pname="e"/>
+                              <nc xml:id="nsudyvp2" oct="2" pname="e"/>
+                              <nc xml:id="nli07ty1" oct="2" pname="f" tilt="s"/>
+                           </neume>
+                        </syllable>
+                        <syllable xml:id="s7bovht2">
+                           <syl xml:id="s7rvzp31" facs="#zh3je2t2">ne</syl>
+                           <neume xml:id="nrpo0ge1" facs="#z59dr221">
+                              <nc xml:id="nabys411" oct="2" pname="d"/>
+                              <nc xml:id="n4osx7g" oct="2" pname="e" tilt="s"/>
+                           </neume>
+                        </syllable>
+                        <syllable xml:id="s6edfky1">
+                           <syl xml:id="s71uxaj2" facs="#zvwsw8m1">di</syl>
+                           <neume xml:id="n1f6x0r1" facs="#zohy0il1">
+                              <nc xml:id="n8ecqr2" oct="2" pname="g"/>
+                              <nc xml:id="normoa" oct="2" pname="a" tilt="s"/>
+                           </neume>
+                        </syllable>
+                        <syllable xml:id="slrrq0k1">
+                           <syl xml:id="sgi64wh" facs="#zmr1j81">ci</syl>
+                           <neume xml:id="nbh2umw2" facs="#zjo3cox2">
+                              <nc xml:id="nmu1c2p1" oct="2" pname="g" tilt="n"/>
+                              <nc xml:id="n4t9mia" oct="2" pname="e"/>
+                           </neume>
+                        </syllable>
+                        <syllable xml:id="s5wkkkj1">
+                           <syl xml:id="scjziqu1" facs="#zd01c0p1">te</syl>
+                           <neume xml:id="nbyam5o2">
+                              <nc xml:id="nzb1c0z1" curve="c" facs="#zstfzzt1" oct="2" pname="f">
+                                 <liquescent xml:id="lt0gskp2"/>
+                              </nc>
+                           </neume>
+                           <neume xml:id="njw7s8i2" facs="#zay0c9z1">
+                              <nc xml:id="nace1aw1" ligated="true" oct="2" pname="f" tilt="n"/>
+                              <nc xml:id="nhg5v12" ligated="true" oct="2" pname="d"/>
+                              <nc xml:id="nvffosv2" oct="2" pname="e"/>
+                              <nc xml:id="nt6uw2m1" oct="2" pname="d"/>
+                           </neume>
+                        </syllable>
+                        <syllable xml:id="s6dg2t51">
+                           <syl xml:id="sfxh4f1" facs="#zbjvlw6">om</syl>
+                           <neume xml:id="n5s0ag6" facs="#zdr0z2n1">
+                              <nc xml:id="n6h46471" oct="2" pname="g"/>
+                           </neume>
+                        </syllable>
+                        <syllable xml:id="sxm2dah">
+                           <syl xml:id="sw28eu11" facs="#zwent8z1">nes</syl>
+                           <neume xml:id="nachtbh">
+                              <nc xml:id="nnkdpsp2" facs="#zcr0o7m1" oct="2" pname="g"/>
+                           </neume>
+                        </syllable>
+                     </layer>
+                  </staff>
+               </section>
+            </score>
+         </mdiv>
+      </body>
+   </music>
+</mei>
