@@ -25,44 +25,44 @@
                         <syllable>
                            <syl>Be</syl>
                            <neume>
-                              <nc pname="e" oct="2"/>
-                              <nc pname="e" oct="2"/>
-                              <nc tilt="s" pname="f" oct="2"/>
+                              <nc pname="e" oct="3"/>
+                              <nc pname="e" oct="3"/>
+                              <nc tilt="s" pname="f" oct="3"/>
                            </neume>
                         </syllable>
                         <syllable>
                            <syl>ne</syl>
                            <neume>
-                              <nc pname="d" oct="2"/>
-                              <nc tilt="s" pname="e" oct="2"/>
+                              <nc pname="d" oct="3"/>
+                              <nc tilt="s" pname="e" oct="3"/>
                            </neume>
                         </syllable>
                         <syllable>
                            <syl>di</syl>
                            <neume>
-                              <nc pname="g" oct="2"/>
-                              <nc tilt="s" pname="a" oct="2"/>
+                              <nc pname="g" oct="3"/>
+                              <nc tilt="s" pname="a" oct="3"/>
                            </neume>
                         </syllable>
                         <syllable>
                            <syl>ci</syl>
                            <neume>
-                              <nc tilt="n" pname="g" oct="2"/>
-                              <nc pname="e" oct="2"/>
+                              <nc tilt="n" pname="g" oct="3"/>
+                              <nc pname="e" oct="3"/>
                            </neume>
                         </syllable>
                         <syllable>
                            <syl>te</syl>
                            <neume>
-                              <nc curve="c" pname="f" oct="2">
+                              <nc curve="c" pname="f" oct="3">
                                  <liquescent/>
                               </nc>
                            </neume>
                            <neume>
-                              <nc ligated="true" tilt="n" pname="f" oct="2"/>
-                              <nc ligated="true" pname="d" oct="2"/>
-                              <nc pname="e" oct="2"/>
-                              <nc pname="d" oct="2"/>
+                              <nc ligated="true" tilt="n" pname="f" oct="3"/>
+                              <nc ligated="true" pname="d" oct="3"/>
+                              <nc pname="e" oct="3"/>
+                              <nc pname="d" oct="3"/>
                            </neume>
                         </syllable>
                         <syllable>

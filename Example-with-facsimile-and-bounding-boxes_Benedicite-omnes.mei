@@ -50,56 +50,56 @@
                         <syllable xml:id="s0grs281">
                            <syl xml:id="sdx79s7" facs="#z11jlni2">Be</syl>
                            <neume xml:id="nafcnbn2" facs="#m-640a4ea5-7581-47cd-88f9-c88632b9419b">
-                              <nc xml:id="n6k38qf1" oct="2" pname="e"/>
-                              <nc xml:id="nsudyvp2" oct="2" pname="e"/>
-                              <nc xml:id="nli07ty1" oct="2" pname="f" tilt="s"/>
+                              <nc xml:id="n6k38qf1" oct="3" pname="e"/>
+                              <nc xml:id="nsudyvp2" oct="3" pname="e"/>
+                              <nc xml:id="nli07ty1" oct="3" pname="f" tilt="s"/>
                            </neume>
                         </syllable>
                         <syllable xml:id="s7bovht2">
                            <syl xml:id="s7rvzp31" facs="#zh3je2t2">ne</syl>
                            <neume xml:id="nrpo0ge1" facs="#z59dr221">
-                              <nc xml:id="nabys411" oct="2" pname="d"/>
-                              <nc xml:id="n4osx7g" oct="2" pname="e" tilt="s"/>
+                              <nc xml:id="nabys411" oct="3" pname="d"/>
+                              <nc xml:id="n4osx7g" oct="3" pname="e" tilt="s"/>
                            </neume>
                         </syllable>
                         <syllable xml:id="s6edfky1">
                            <syl xml:id="s71uxaj2" facs="#zvwsw8m1">di</syl>
                            <neume xml:id="n1f6x0r1" facs="#zohy0il1">
-                              <nc xml:id="n8ecqr2" oct="2" pname="g"/>
-                              <nc xml:id="normoa" oct="2" pname="a" tilt="s"/>
+                              <nc xml:id="n8ecqr2" oct="3" pname="g"/>
+                              <nc xml:id="normoa" oct="3" pname="a" tilt="s"/>
                            </neume>
                         </syllable>
                         <syllable xml:id="slrrq0k1">
                            <syl xml:id="sgi64wh" facs="#zmr1j81">ci</syl>
                            <neume xml:id="nbh2umw2" facs="#zjo3cox2">
-                              <nc xml:id="nmu1c2p1" oct="2" pname="g" tilt="n"/>
-                              <nc xml:id="n4t9mia" oct="2" pname="e"/>
+                              <nc xml:id="nmu1c2p1" oct="3" pname="g" tilt="n"/>
+                              <nc xml:id="n4t9mia" oct="3" pname="e"/>
                            </neume>
                         </syllable>
                         <syllable xml:id="s5wkkkj1">
                            <syl xml:id="scjziqu1" facs="#zd01c0p1">te</syl>
                            <neume xml:id="nbyam5o2">
-                              <nc xml:id="nzb1c0z1" curve="c" facs="#zstfzzt1" oct="2" pname="f">
+                              <nc xml:id="nzb1c0z1" curve="c" facs="#zstfzzt1" oct="3" pname="f">
                                  <liquescent xml:id="lt0gskp2"/>
                               </nc>
                            </neume>
                            <neume xml:id="njw7s8i2" facs="#zay0c9z1">
-                              <nc xml:id="nace1aw1" ligated="true" oct="2" pname="f" tilt="n"/>
-                              <nc xml:id="nhg5v12" ligated="true" oct="2" pname="d"/>
-                              <nc xml:id="nvffosv2" oct="2" pname="e"/>
-                              <nc xml:id="nt6uw2m1" oct="2" pname="d"/>
+                              <nc xml:id="nace1aw1" ligated="true" oct="3" pname="f" tilt="n"/>
+                              <nc xml:id="nhg5v12" ligated="true" oct="3" pname="d"/>
+                              <nc xml:id="nvffosv2" oct="3" pname="e"/>
+                              <nc xml:id="nt6uw2m1" oct="3" pname="d"/>
                            </neume>
                         </syllable>
                         <syllable xml:id="s6dg2t51">
                            <syl xml:id="sfxh4f1" facs="#zbjvlw6">om</syl>
                            <neume xml:id="n5s0ag6" facs="#zdr0z2n1">
-                              <nc xml:id="n6h46471" oct="2" pname="g"/>
+                              <nc xml:id="n6h46471" oct="3" pname="g"/>
                            </neume>
                         </syllable>
                         <syllable xml:id="sxm2dah">
                            <syl xml:id="sw28eu11" facs="#zwent8z1">nes</syl>
                            <neume xml:id="nachtbh">
-                              <nc xml:id="nnkdpsp2" facs="#zcr0o7m1" oct="2" pname="g"/>
+                              <nc xml:id="nnkdpsp2" facs="#zcr0o7m1" oct="3" pname="g"/>
                            </neume>
                         </syllable>
                      </layer>

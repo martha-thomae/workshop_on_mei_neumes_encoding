@@ -25,9 +25,9 @@
                         <syllable>
                            <syl>Be</syl>
                            <neume>
-                              <nc pname="e" oct="2"/>
-                              <nc pname="e" oct="2"/>
-                              <nc tilt="s" pname="f" oct="2"/>
+                              <nc pname="e" oct="3"/>
+                              <nc pname="e" oct="3"/>
+                              <nc tilt="s" pname="f" oct="3"/>
                            </neume>
                         </syllable>
                      </layer>
